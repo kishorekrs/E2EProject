@@ -30,7 +30,7 @@ public class ValidatePage extends Base{
 		Assert.assertEquals(lp.selecttitle().getText(), "FEATURED COURSES");
 		log.info("Courses Validation Successfull");
 		Assert.assertTrue(lp.getnavbar().isDisplayed());
-		log.info("Navigation Bar Displayed Successfully");
+		log.info("Navigation Bars Displayed Successfully");
 		}
 	
 	@AfterClass
