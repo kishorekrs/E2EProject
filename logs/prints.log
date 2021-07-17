@@ -1,0 +1,7 @@
+21:29:35.102 [main] INFO  resources.Base - Driver is initialized
+21:29:35.325 [main] INFO  resources.Base - Courses Validation Successfull
+21:29:35.421 [main] INFO  resources.Base - Navigation Bar Displayed Successfully
+21:29:39.093 [main] INFO  resources.Base - Driver is initialized
+21:29:43.785 [main] INFO  resources.Base - restricted@tester.com User tried to sign in
+21:29:46.714 [main] INFO  resources.Base - nonrestricted@tester.com User tried to sign in
+21:29:48.794 [main] INFO  resources.Base - Browser Closed

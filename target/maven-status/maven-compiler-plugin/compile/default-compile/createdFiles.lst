@@ -1,0 +1,4 @@
+resources\Base.class
+Framework\App.class
+PageObjects\LoginPage.class
+PageObjects\LandingPage.class
